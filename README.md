@@ -1,7 +1,7 @@
 # Andrey Misyura CV
 ## Download cv:
-### [download in docx](https://github.com/amveng/cv/raw/main/andrey_misyura_cv.docx)
-### [download in pdf](https://github.com/amveng/cv/raw/main/andrey_misyura_cv.pdf)
+### [download in docx](https://github.com/amveng/cv/raw/master/andrey_misyura_cv.docx)
+### [download in pdf](https://github.com/amveng/cv/raw/master/andrey_misyura_cv.pdf)
 
 ----------------------- -------------------------
 
