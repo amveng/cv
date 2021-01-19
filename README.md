@@ -32,34 +32,27 @@
 
 **SUMMARY OF QUALIFICATION**
 
-
- Was working as sysadmin 5 years                                       
-                                                                       
- Have experience with setting up servers (Red Hat, Fedora) for         
- computer club with network optimisation.                              
-                                                                       
- Was administrating Russian Championship of cyber-sport of the city.   
-                                                                       
- was writing bots for game industry                                    
-                                                                       
- I have been working with Ruby on Rails framework since May 2020.      
+ I'm working with Ruby on Rails framework since May 2020.      
                                                                       
  During this time I\'ve released my project(<https://lineagetop.com/>) 
- application for advertisement game servers with ability for users   
- to vote                                                               
-                                                                       
- and publish paid ads and banners. For admin users there is            
- possibility to manage advertisements, servers, content on the pages,  
- users, ability to see all payments and votes                          
-                                                                       
- Also this application provides access to API for server\'s owners by  
- secret keys                                                           
+ application for advertisement game servers with ability for users  to vote   and publish paid ads and banners. For admin users there is possibility to manage advertisements, servers, content on the pages, users, ability to see all payments and votes. Also this application provides access to API for server\'s owners by secret keys                                                           
                                                                        
  My current stack of technologies is: Ruby, Rails, Postgres, Sidekiq,  
- Redis, Docker, git, Rspec, Unicorn, Active admin, sidekiq-scheduler.  
+ Redis, Docker, git, Rspec, Factory bot, Unicorn, Active admin, sidekiq-scheduler.  
+
+ In my previous experience I was working as System Administrator 5 years                                       
+                                                                       
+ I have experience with setting up servers (Red Hat, Fedora) for         
+ computer club for network optimisation.                              
+                                                                       
+ I was administrating Russian Championship of cyber-sport of the city.   
+                                                                       
+ I have experience with writing bots for game industry                                    
+                                                                       
 
 
--   LANGUAGES
+
+**LANGUAGES**
 
 -   English -- Beginner
 
