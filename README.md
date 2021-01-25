@@ -5,14 +5,12 @@
 
 ----------------------- -------------------------
 
- <img alt="foto" align="right" height="260"  src="./images/foto.jpg">
+
 
 
 **PERSONAL DATA**
  
   **Name:**            Andrey Misyura
-
-  **Date of Birth:**   12/09/1975
 
   **Location:**        Russia, Murmansk
 
